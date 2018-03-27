@@ -1,2 +1,2 @@
-# colorful_moon
+# color_moon
 moon
